@@ -18,6 +18,7 @@
             <Button Content="Calculate"
                     Background="DodgerBlue"
                     Foreground="Beige"/>
+            <Label/>
         </StackPanel>
     </Grid>
 </Window>
