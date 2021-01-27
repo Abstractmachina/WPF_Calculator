@@ -23,6 +23,8 @@ namespace WPF_Calculator
         public MainWindow()
         {
             InitializeComponent();
+
+            label_result.Content = "12123";
         }
     }
 }
